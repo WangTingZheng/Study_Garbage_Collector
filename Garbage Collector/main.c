@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <memory.h>
 #include <assert.h>
 #include "main.h"
